@@ -5,6 +5,3 @@
 [submodule "Ac3net"]
 	path = Ac3net
 	url = https://github.com/cran/Ac3net
-[submodule "dc3net"]
-	path = dc3net
-	url = https://github.com/cran/dc3net
